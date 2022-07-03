@@ -1,3 +1,24 @@
 .box{
-    background-color: aqua;
+    width: 100%;
+    height: 50vh;
+}
+h1{
+    color: #FF4081;
+    font-size: 60px;
+    font-weight: 700;
+    width: 488px;
+    padding-left: 206px;
+}
+a{
+    display: flex;
+    color: #555555;
+    width: 462px;
+    font-size: 27px;
+    padding-top: 19px;
+}
+.escuro{
+    background-color: #F6F6F6;
+}
+.claro{
+    background-color: white;
 }
