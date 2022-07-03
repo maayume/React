@@ -1,11 +1,11 @@
 header{
     background-color: #2E948A;
     display: flex;
-    align-items: center;
     padding: 10px;
 }
 nav{
-    height: 100%;
-    padding-inline-start: 40px;
+    display: flex;
+    padding-inline-start: 60%;
     margin: 16px;
+    text-transform: uppercase;
 }
